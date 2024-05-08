@@ -1,7 +1,7 @@
 Yahoo Finance Top 25 Daily Stock Scraper
 
 Description:
-This Python project utilizes the Splinter and BeautifulSoup libraries to scrape the daily top 25 stock gainers from Yahoo Finance's website. The scraped data is then saved into a CSV file for further analysis or usage.
+This Python project utilizes the Splinter and BeautifulSoup libraries to scrape the daily top 25 stock gainers and loser from Yahoo Finance's website. The scraped data is then saved into a CSV file for further analysis or usage.
 
 Dependencies:
 Python 3.x
